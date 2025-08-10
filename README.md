@@ -2,7 +2,10 @@
 
 MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1166522ccc399d2fd60b35ec5320c5dfe4400b28
 ## Features
 
 - User authentication and authorization(JWT)
